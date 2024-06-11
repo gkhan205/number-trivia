@@ -18,4 +18,6 @@ The objective of this video is to guide viewers through the process of creating 
 
 ## Watch on Youtube
 
-[<img alt="Watch the video" height="315" src="https://img.youtube.com/vi/PhhqYt8n-QI/default.jpg" width="560"/>](https://youtu.be/PhhqYt8n-QI)
+[Click on Thumbnail to Watch on Youtube](https://youtu.be/PhhqYt8n-QI)
+
+[<img alt="Watch the video" height="315" src="https://img.youtube.com/vi/PhhqYt8n-QI/hqdefault.jpg" width="560"/>](https://youtu.be/PhhqYt8n-QI)
